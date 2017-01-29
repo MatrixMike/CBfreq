@@ -1,4 +1,5 @@
-public  class strCreate  extends CBfreq{
+public  class strCreate  {
+    // was public  class strCreate  extends CBfreq{
     static   String make1 (int chn, int f ){
         String message1 = "";
         StringBuilder sb1 = new StringBuilder(message1);

@@ -30,6 +30,7 @@ public class CBfreq {
         //sb.append("Greetings");
         //System.out.println(" length = " + sb.length() + " "+  sb.reverse() + sb);
         System.out.println("\nStarting\n");
+        System.out.println(CBaux.half(10));
         for (int x = 156050; x < 157350+1; x=x+50) {
             System.out.println(strCreate.make1(ch,x));
             ch += 1;
